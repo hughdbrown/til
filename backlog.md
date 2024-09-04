@@ -362,3 +362,12 @@ https://github.com/SonicDMG/babbelfish.ai
 
 * AI Engineer videos
 - [AI Engineer on YouTube](https://www.youtube.com/@aiDotEngineer)
+
+* LeetCode technique
+- [LeetCode was HARD until I Learned these 15 Patterns](https://medium.com/@ashishps/leetcode-was-hard-until-i-learned-these-15-patterns-19d15f6d71f1)
+
+* LLM from Scratch Workshops
+- [Andrej Karpathy video](https://www.youtube.com/watch?v=kCc8FmEb1nY)
+- [Sebastian Raschka video](https://youtu.be/quh7z1q7-uc)
+- [Sebastian Raschka article](https://magazine.sebastianraschka.com/p/building-llms-from-the-ground-up)
+
