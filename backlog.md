@@ -371,3 +371,8 @@ https://github.com/SonicDMG/babbelfish.ai
 - [Sebastian Raschka video](https://youtu.be/quh7z1q7-uc)
 - [Sebastian Raschka article](https://magazine.sebastianraschka.com/p/building-llms-from-the-ground-up)
 
+* BroadcastBox
+> Broadcast Box lets you broadcast to others in sub-second time. It was designed to be simple to use and easily modifiable. We wrote Broadcast Box to show off some of the cutting edge tech that is coming to the broadcast space.
+- [broadcast-box repo](https://github.com/Glimesh/broadcast-box)
+- [Hacker News coverage](https://news.ycombinator.com/item?id=41424954)
+
