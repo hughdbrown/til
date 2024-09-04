@@ -348,3 +348,17 @@ https://github.com/iOliverNguyen/git-pr
 1. [mux-player-react](https://www.npmjs.com/package/@mux/mux-player-react)
 `mux-player-react` is not an LMS but it does provide the video player for such a system.
 
+
+* Random gen-AI links
+- [](https://docs.anthropic.com/en/docs/build-with-claude/tool-use)
+https://github.com/SonicDMG/babbelfish.ai
+
+
+* GraphRAG
+- [](https://youtu.be/knDDGYHnnSI?si=61_WAU0xiOciUxP-)
+1. DO a vector search to find an initial set of nodes
+2. Traverse the graph around the nodes to add context
+3. Optionally rank the results using the graph and pass the top-k documents to the LLM
+
+* AI Engineer videos
+- [AI Engineer on YouTube](https://www.youtube.com/@aiDotEngineer)
