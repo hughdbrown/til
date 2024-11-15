@@ -107,12 +107,11 @@ https://github.com/torbiak/git-autofixup
 https://github.com/iOliverNguyen/git-pr
 6. [git-spice CLI](https://abhinav.github.io/git-spice/cli/)
 
-
-
-
 * [itsy-gitsy: A static site generator for Git repositories](https://git.trevorbentley.com/itsy-gitsy/)
 * [TIL: Mermaid Gantt diagrams are great for displaying distributed traces in Markdown](https://brycemecum.com/2023/03/31/til-mermaid-tracing/)
+* [Mermaid Diagramming and charting tool](https://mermaid.js.org/)
 * [Mermaid lets you create diagrams and visualizations using text and code.](https://mermaid.js.org/intro/)
+* [Mermaid for Gantt charts](https://brycemecum.com/2023/03/31/til-mermaid-tracing/)
 * [llm cmd undo last git commit—a new plugin for LLM](https://simonwillison.net/2024/Mar/26/llm-cmd/)
 
 * Rust learning resources
@@ -316,7 +315,6 @@ https://github.com/iOliverNguyen/git-pr
 
 * [Song for Dave Kiss's competition videos](https://suno.com/song/09bc3c8f-3ac7-4cb6-bad9-a331f254f95b)
 
-* [Mermaid Diagramming and charting tool](https://mermaid.js.org/)
 
 * [Bolt Depot - Fastener shopping made easy](https://boltdepot.com/Catalog)
 
@@ -336,7 +334,6 @@ https://github.com/iOliverNguyen/git-pr
 
 * [The Ultimate AI Tool Kit](https://doc.clickup.com/37456139/d/h/13q28b-204/5a46c0ced275cf7)
 * [Run LLMs locally](https://medium.com/sourcescribes/trending-tools-for-running-an-llm-locally-980b984c0e92)
-* [Mermaid for Gantt charts](https://brycemecum.com/2023/03/31/til-mermaid-tracing/)
 
 * Video editing workflow
 1. [AutoEditor – Edit your video in just a few clicks](https://news.ycombinator.com/item?id=41174996)
@@ -375,4 +372,30 @@ https://github.com/SonicDMG/babbelfish.ai
 > Broadcast Box lets you broadcast to others in sub-second time. It was designed to be simple to use and easily modifiable. We wrote Broadcast Box to show off some of the cutting edge tech that is coming to the broadcast space.
 - [broadcast-box repo](https://github.com/Glimesh/broadcast-box)
 - [Hacker News coverage](https://news.ycombinator.com/item?id=41424954)
+
+* Leonard Cohen
+- [Hallelujah](https://subtledigressions.substack.com/p/hallelujah-leonard-cohen-and-a-pulitzer)
+
+* BetterDisplay
+- [BetterDisplay](https://github.com/waydabber/BetterDisplay)
+
+* Employment application
+- [Auto_Jobs_Applier_AIHawk](https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk) is a tool that automates the jobs application process.
+
+* Template library
+- [MiniJinja](https://docs.rs/minijinja/latest/minijinja/): a powerful template engine for Rust with minimal dependencies
+- [MiniJinja: Learnings from Building a Template Engine in Rust](https://lucumr.pocoo.org/2024/8/27/minijinja/)
+
+* AI alternative to web search
+- [Perplexity.ai](https://www.perplexity.ai/)
+
+* Rust libraries
+- [Rust Adventures: Abusing Serde](https://lucumr.pocoo.org/2021/11/14/abusing-serde/)
+
+* Algo trading website
+- [Grizzly Bulls](https://grizzlybulls.com)
+- [Explanation of Grizzly Bulls](https://grizzlybulls.com/how-it-works)
+
+* Algo trading courses
+- [Georgia Tech CS 7646](https://omscs.gatech.edu/cs-7646-machine-learning-trading)
 
